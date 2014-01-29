@@ -25,7 +25,7 @@
 </noscript>
 <script src="css/5grid/jquery.js"></script>
 <script src="css/5grid/init.js?use=mobile,desktop,1000px&amp;mobileUI=1&amp;mobileUI.theme=none"></script>
-<!--[if IE 9]><link rel="stylesheet" href="css/style-ie9.css" /><![endif]-->
+<!--[if IE 9]><link rel="stylesheet" href="css/style-ie9.css" /><![endif]-- fixedbug>
 </head><body class="homepage">
 <div id="header-wrapper">
 	<header id="header">
@@ -43,10 +43,10 @@
 					<nav class="mobileUI-site-nav">
 						<ul>
 							<li class="current_page_item"><a href="index.html">Homepage</a></li>
-							<li><a href="Fourcolumn.html">Three Column</a></li>
-							<li><a href="twocolumn1.html">Two Column #1</a></li>
-							<li><a href="twocolumn2.html">Two Column #2</a></li>
-							<li><a href="onecolumn.html">One Column</a></li>
+							<li><a href="threecolumn.html">menu1</a></li>
+							<li><a href="twocolumn1.html">menu2</a></li>
+							<li><a href="twocolumn2.html">menu3</a></li>
+							<li><a href="onecolumn.html">menu4</a></li>
 						</ul>
 					</nav>
 				</div>
